@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.App p{
+  font-weight: 600;
+}
+
+.App h2{
+  color: rgb(105, 107, 104);
+}
