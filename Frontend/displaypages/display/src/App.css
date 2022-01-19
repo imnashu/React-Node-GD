@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.city{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cityd{
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  background-color: cadetblue;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.citydiv p{
+  font-size: 25px;
+  font-weight: 400;
+}
